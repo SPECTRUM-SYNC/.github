@@ -14,7 +14,8 @@
 <div style = "display: flex;">
 
 <div style = "width:100%">
-<img alt="Foto Gustavo" src="https://ca.slack-edge.com/T0524F9N43F-U05R3U0MWAG-508c602b12f1-72" width = 200 align="left">
+
+<img alt="Foto Cauã" src="https://github.com/SPECTRUM-SYNC/.github/assets/86174349/3410ac48-6540-44e8-9735-4dccd8ca882a" height= 200 width = 200 align="left">
 </div>
     <h4>Cauã Ribeiro</h4>
   <p><i>
@@ -55,7 +56,7 @@
         </a>
 <hr>
 <div style = "width:100%">
-<img alt="Foto Jessica" src="https://github.com/SealSolution/.github/assets/86174349/045d6589-d68d-4f86-b846-fd8c15d85d5f" width = 200 align="left">
+<img alt="Foto Paulo" src="https://github.com/SealSolution/.github/assets/86174349/045d6589-d68d-4f86-b846-fd8c15d85d5f" width = 200 align="left">
 </div>
     <h4>Paulo Frutoso</h4>
   <p><i>
