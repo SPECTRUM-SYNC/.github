@@ -14,7 +14,7 @@
 <div style = "display: flex;">
 
 <div style = "width:100%">
-<img alt="Foto Gustavo" src="https://ca.slack-edge.com/T0524F9N43F-U05R3U0MWAG-508c602b12f1-72" width = 200 align="left">
+<img alt="Foto Caua" src="https://ca.slack-edge.com/T0524F9N43F-U05R3U0MWAG-508c602b12f1-72" width = 200 align="left">
 </div>
     <h4>Cauã Ribeiro</h4>
   <p><i>
@@ -23,6 +23,27 @@
         - Total comprometimento dentro da nossa organização.<br>
         - Atualmente está realizando o projeto <b>nameProject</b>.<br>
         - Cauã atua em todas as áreas da organização.</i><br></p>
+        <a href= "url.com">
+        <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
+       </a>
+       <a href= "url.com">
+       <img alt="Rede Social" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRqxJYUdQM20b-kpw0btYL7orcsnvUnvSJtA&usqp=CAU" align="center" width="50" height="50">
+       </a>
+        <a href= "url.com">
+        <img alt="Rede Social" src="https://user-images.githubusercontent.com/86174349/228012688-97fdee29-8f40-4804-b9cc-a1042ab09598.png" align="center" width="50" height="50">
+        </a>
+<hr>
+
+<div style = "width:100%">
+<img alt="Foto Diogo" src="https://github.com/SPECTRUM-SYNC/.github/assets/79330086/83a6ddee-5744-46bf-a1a2-63b9ccbeec66" width = 200 align="left">
+</div>
+    <h4>Diogo Vidal</h4>
+  <p><i>
+        - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
+        - Um dos COs da organização <b>Spectrum Sync.</b><br>
+        - Total comprometimento dentro da nossa organização.<br>
+        - Atualmente está realizando o projeto <b>nameProject</b>.<br>
+        - Diogo atua em todas as áreas da organização.</i><br></p>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -55,7 +76,7 @@
         </a>
 <hr>
 <div style = "width:100%">
-<img alt="Foto Jessica" src="https://github.com/SealSolution/.github/assets/86174349/045d6589-d68d-4f86-b846-fd8c15d85d5f" width = 200 align="left">
+<img alt="Foto Paulo" src="https://github.com/SealSolution/.github/assets/86174349/045d6589-d68d-4f86-b846-fd8c15d85d5f" width = 200 align="left">
 </div>
     <h4>Paulo Frutoso</h4>
   <p><i>
