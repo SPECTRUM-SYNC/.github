@@ -14,7 +14,7 @@
 <div style = "display: flex;">
 
 <div style = "width:100%">
-<img alt="Foto Caua" src="https://ca.slack-edge.com/T0524F9N43F-U05R3U0MWAG-508c602b12f1-72" width = 200 align="left">
+<img alt="Foto Caua" src="https://media.licdn.com/dms/image/D4D03AQF-LDupIOE3XA/profile-displayphoto-shrink_800_800/0/1709148839531?e=1714608000&v=beta&t=Gp7-rXZMbAIc7HDz7csR3VnJL32KcIQSbUmVqU2Ys3o" width = 200 align="left">
 </div>
     <h4>Cauã Ribeiro</h4>
   <p><i>
